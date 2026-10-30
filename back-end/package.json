@@ -20,16 +20,16 @@
     "studio": "prisma studio"
   },
   "dependencies": {
-    "@prisma/adapter-mariadb": "^7.10.0",
+    "@prisma/adapter-mariadb": "^7.10.1",
     "@prisma/client": "^7.10.1",
-    "bcrypt": "^6.0.0",
     "bcryptjs": "^2.4.3",
-    "cors": "^2.8.6",
-    "dotenv": "^16.6.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.3",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.5.4",
     "tsx": "^4.19.0",
-    "zod": "^3.25.76"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
